@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bckelley
-- - 📫 <a href="business@bradonckelley.me">business@bradonckelley.me</a>
+- 📫 <a href="business@bradonckelley.me">business@bradonckelley.me</a>
 <!--
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
