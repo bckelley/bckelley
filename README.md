@@ -9,7 +9,14 @@
 
 - [bckelley/desktop_automation](https://github.com/bckelley/desktop_automation) - Python script that watches ~/Downloads and moves files to appropriate directory based on extension and/or file size 
 
+### 🔨 My recent Pull Requests
+
+- [Added settings and extensions files for extensions in the marketplace](https://github.com/AsmrProg-YT/My-Settings/pull/2) on [AsmrProg-YT/My-Settings](https://github.com/AsmrProg-YT/My-Settings)
+[](https://github.com/bckelley/My-Settings)
 <!--
+### 🌱 My latest projects
+### 📫 How to reach me:
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
