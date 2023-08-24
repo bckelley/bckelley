@@ -7,7 +7,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [bckelley/desktop_automation](https://github.com/bckelley/desktop_automation) - Python script that watches ~/Downloads and moves files to appropriate directory based on extension and/or file size 
+- [bckelley/watcher](https://github.com/bckelley/watcher) - Python script that watches ~/Downloads and moves files to appropriate directory based on extension and/or file size 
 
 ### 🔨 My recent Pull Requests
 
