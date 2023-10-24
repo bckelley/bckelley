@@ -7,7 +7,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [bckelley/watcher](https://github.com/bckelley/watcher) - Python script that watches ~/Downloads and moves files to appropriate directory based on extension and/or file size 
+- [bckelley/SimplePHPDB](https://github.com/bckelley/SimplePHPDB) - SimplePHPDB is a lightweight and easy-to-use PHP database connection and manipulation class designed for MySQL databases. It simplifies common database operations such as connecting to a database, selecting data, inserting records, updating information, and deleting data.
 
 ### 🔨 My recent Pull Requests
 
