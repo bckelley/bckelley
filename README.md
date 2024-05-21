@@ -7,6 +7,10 @@
 
 ### 👷 Check out what I'm currently working on
 
+- 
+
+### 🌱 My latest projects
+
 - [bckelley/RouteEaseMVC](https://github.com/bckelley/RouteEaseMVC) - RouteEaseMVC is a web application built with PHP that provides a versatile platform for creating, managing, and sharing posts.
 - [bckelley/SimplePHPDB](https://github.com/bckelley/SimplePHPDB) - SimplePHPDB is a lightweight and easy-to-use PHP database connection and manipulation class designed for MySQL databases. It simplifies common database operations such as connecting to a database, selecting data, inserting records, updating information, and deleting data.
 
