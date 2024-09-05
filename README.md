@@ -17,7 +17,7 @@
 ### 🔨 My recent Pull Requests
 
 - [Added settings and extensions files for extensions in the marketplace](https://github.com/AsmrProg-YT/My-Settings/pull/2) on [AsmrProg-YT/My-Settings](https://github.com/AsmrProg-YT/My-Settings)
-- [minor tweak to username command](https://github.com/ChrisTitusTech/Debian-titus/pull/108) [ChrisTistusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus/)
+- [minor tweak to username command](https://github.com/ChrisTitusTech/Debian-titus/pull/108) on [ChrisTistusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus/)
 [](https://github.com/bckelley/My-Settings)
 <!--
 ### 🌱 My latest projects
