@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center"><a href="[https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bckelley&show_icons=true&theme=material-palenight)">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bckelley&show_icons=true&theme=material-palenight" />
 </a></p>
 
