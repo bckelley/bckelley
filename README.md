@@ -7,6 +7,7 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [bckelley/terminal-portfolio](https://bckelley.github.io/terminal-portfolio)
 - [bckelley/Sass-Workflow](https://github.com/bckelley/Sass-Workflow)
 
 ### 🌱 My latest projects
