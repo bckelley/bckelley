@@ -8,7 +8,7 @@
 ### 👷 Check out what I'm currently working on
 
 - [bckelley/Sass-Workflow](https://github.com/bckelley/Sass-Workflow)
-- [bckelley/RouteEaseMVC](https://github.com/bckelley/RouteEaseMVC)
+- [bckelley/SimpleMVC](https://github.com/bckelley/SimpleMVC)
 
 ### 🌱 My latest projects
 
