@@ -13,7 +13,7 @@
 ### 🌱 My latest projects
 
 - [bckelley/terminal-portfolio](https://bckelley.github.io/terminal-portfolio) - GitHub pages website.
-- [bckelley/RouteEaseMVC](https://github.com/bckelley/RouteEaseMVC) - RouteEaseMVC is a web application built with PHP that provides a versatile platform for creating, managing, and sharing posts.
+- [bckelley/SimpleMVC](https://github.com/bckelley/SimpleMVC) - RouteEaseMVC is a web application built with PHP that provides a versatile platform for creating, managing, and sharing posts.
 - [bckelley/SimplePHPDB](https://github.com/bckelley/SimplePHPDB) - SimplePHPDB is a lightweight and easy-to-use PHP database connection and manipulation class designed for MySQL databases. It simplifies common database operations such as connecting to a database, selecting data, inserting records, updating information, and deleting data.
 - [bckelley/spotify-player](https://github.com/bckelley/spotify-player) - A simple web app to display your current Spotify playback, built with vanilla JS, Tailwind CSS, and the Spotify Web API.
 
